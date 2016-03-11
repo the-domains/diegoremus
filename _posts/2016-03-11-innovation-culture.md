@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This February, I wrote about Innovation Culture as my final paper for the Strategy MBA at FGV in Brazil. I suggested an action plan, based on fostering organizational culture as a mean to innovate a company's strategy from the people up (before processes or structures or policies). The work covered Roger Martin's abductive reasoning and Robert Richman's culture hacking.\_"
-datePublished: '2016-03-11T03:06:25.426Z'
-dateModified: '2016-03-11T03:06:08.552Z'
+datePublished: '2016-03-11T03:08:56.024Z'
+dateModified: '2016-03-11T03:08:50.643Z'
 title: Innovation Culture
 author: []
+sourcePath: _posts/2016-03-11-innovation-culture.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-innovation-culture.md
-published: true
 url: innovation-culture/index.html
 _type: Article
 
@@ -29,8 +29,6 @@ This February, I wrote about Innovation Culture as my final paper for the Strate
 Meanwhile, I'm implementing such approaches at [Grupo TV1][2], the communications agency I'm working for as an innovation specialist for in-house and clients' projects. Also, I've recently taught a class on Innovation Culture for [MeuSucesso][3].
 
 If you're curious about how to "hack" a work environment (as a system of people and tasks) towards innovation, follow the hashtag [\#culturehacking][4] on Twitter and check [this][5] and [that][6].
-
-https://www.youtube.com/watch?v=GQGdJufS3M0
 
 [0]: https://en.wikipedia.org/wiki/The_Design_of_Business
 [1]: http://www.robertrichman.com/culture-consulting/culture-hacking/
