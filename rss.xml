@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[diegoremus]]></title>
+        <description><![CDATA[diegoremus]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 03:06:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Innovation Culture]]></title>
+            <description><![CDATA[<article><h1>Innovation Culture</h1><p>This February, I wrote about Innovation Culture as my final paper for the Strategy MBA at FGV in Brazil. I suggested an action plan, based on fostering organizational culture as a mean to innovate a company's strategy from the people up (before processes or structures or policies). The work covered Roger Martin's abductive reasoning and Robert Richman's culture hacking. </p></article>]]></description>
+            <link>undefinedinnovation-culture/index.html</link>
+            <guid isPermaLink="false">7d4f7257-2d87-4db5-b053-fc36d953e278</guid>
+            <pubDate>Fri, 11 Mar 2016 03:06:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
