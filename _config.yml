@@ -1,6 +1,6 @@
 name: diegoremus
 favicon: null
-layout_spectrum: 0.4432947845198214
+layout_spectrum: 0
 typography_spectrum: 0.576941633131355
 title: Diego Remus cultivating innovation
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.2566639541182667
   lightness: 0.6092963984701782
   saturation: 0.4511656879913062
-  rhythmicContrast: 0.521417110459879
+  rhythmicContrast: 0.5
 purpose: []
